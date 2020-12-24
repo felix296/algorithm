@@ -37,7 +37,6 @@ public class P24 {
             return head;
         }
 
-
         return swapPairs(head);
     }
 
